@@ -25,7 +25,7 @@ password1
 secret
 ```
 
-### passwords form a file
+### passwords from a file
 
 ```bash
 $ cat passwords.txt
