@@ -43,7 +43,7 @@ secret
 
 ### show the password count
 
-The `-c` flag shows you how many times each password has been pwned.
+The `-c` flag shows you how many times each password has been pwned
 
 ```bash
 $ passcheck -c < passwords.txt
@@ -54,7 +54,7 @@ thispasswordissecret:14
 
 ### we must go faster
 
-The `-w` flag lets you increase the amount of go workers.
+The `-w` flag lets you increase the amount of go workers
 
 ```bash
 $ passcheck -w 30 < passwords.txt
