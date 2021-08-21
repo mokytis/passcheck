@@ -4,7 +4,7 @@ Check passwords against [Pwned Passwords](https://haveibeenpwned.com/Passwords)
 
 ## install
 ```bash
-go get -u gitlab.com/mokytis/passcheck
+go get -u github.com/mokytis/passcheck
 ```
 
 ## usage
